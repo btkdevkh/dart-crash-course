@@ -1,0 +1,5 @@
+name: "Basics_lang_for_flutter"
+dependencies:
+  http: ^1.2.1
+environment:
+  sdk: "^3.3.0"
